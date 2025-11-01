@@ -1,16 +1,15 @@
-# rural_health_reminder
+# Rural Health Reminder
+A Flutter app to improve healthcare access in rural India.
 
-A new Flutter project.
+## Features
+- Add personalized health reminders (TB, vaccination, wellness)
+- Local notifications
+- Hindi/English support
+- Completion tracking with chart
+- Clean, accessible UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter
+- Shared Preferences
+- `flutter_local_notifications`
+- `fl_chart`, `lottie`, `google_fonts`
